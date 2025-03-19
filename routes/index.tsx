@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Layout>
       <div style={{ textAlign: "center", marginTop: "20vh" }}>
-        <h1>Bienvenido al mejor diccionario de inglés</h1>
+        <h1>Bienvenido al mejor diccionario de inglés que vas a encontrar</h1>
         <p>Encuentra definiciones y significados fácilmente.</p>
         <p>
           <a
